@@ -25,7 +25,7 @@
 [gulp](https://www.npmjs.com/package/gulp) Таск-менеджер Gulp  
 [sass](https://www.npmjs.com/package/sass) Компилятор Sass  
 [gulp-sass](https://www.npmjs.com/package/gulp-sass) Компиляция Sass и Scss файлов  
-[gulp-babel](https://www.npmjs.com/package/gulp-babel) Транспилер
+[gulp-babel](https://www.npmjs.com/package/gulp-babel) Транспилер  
 [@babel/core](https://www.npmjs.com/package/@babel/core) Ядро Babel  
 [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) Пресет для компиляции Babel  
 [gulp-concat](https://www.npmjs.com/package/gulp-concat) Объединение файлов в один  
